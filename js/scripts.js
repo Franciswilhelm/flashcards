@@ -6,9 +6,14 @@ $(function() {
     $("#test").click(function() {
       $("#test").toggle();
     });
-  });
 
   $("#operator").click(function() {
-    $("#operator").toggle();
+    $("#operator p").toggle();
     });
-  });
+
+
+
+
+
+
+});
