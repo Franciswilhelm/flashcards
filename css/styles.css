@@ -1,7 +1,17 @@
-.black-background {
-  background-color: black;
+body{
+  background-color: green;
 }
 
-.white-background {
-  background-color: white;
+.row{
+  float: right;
+  padding-right: 50px;
+}
+
+h1 {
+  float: right;
+  padding: 30px;
+  background-color: blue;
+  border: 35px solid red;
+  height: 400px;
+  width: 400px;
 }

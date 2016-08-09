@@ -1,0 +1,18 @@
+<p>JavaScript is a coding language that is universal and content based</p>
+<p>Operators are special symbols that perform specific operation on operands and then returns a result</p>
+<p>A Variable or scalar is a storage location paired with an associated symbolic name (an identifier), which contains some known or unknown quantity of information referred to as a value.</p>
+<p>Functions are procedures or routines that return a value</p>
+<p>The method attribute specifies how to send form-data (the form-data is sent to the page specified in the action attribute).</p>
+<p>The arguments object is a local variable available within all functions. </p>
+<p>a numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation.</p>
+<p>The return statement ends function execution and specifies a value to be returned to the function caller.</p>
+<p>Method chaining, also known as named parameter idiom, is a common syntax for invoking multiple method calls in object-oriented programming languages. Each method returns an object, allowing the calls to be chained together in a single statement without requiring variables to store the intermediate results.</p>
+<p>A string can be any text inside double or single quotes</p>
+<p>the Boolean data type is a data type, having two values (usually denoted true and false</p>
+<p>Not clear or defined.</p>
+<p>Not a Number</p>
+<p>The deprecated escape() function computes a new string in which certain characters have been replaced by a hexadecimal escape sequence.</p>
+<p>An alert box is often used if you want to make sure information comes through to the user.</p>
+<p>A comment is a programmer-readable annotation in the source code of a computer </p>
+<p>JQuery is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML</p>
+<p>The attributes property returns a collection of the specified node's attributes, as a NamedNodeMap object</p>
